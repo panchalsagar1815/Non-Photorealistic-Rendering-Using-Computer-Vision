@@ -1,4 +1,4 @@
-# Non
+#
 **Project Title: Non-Photorealistic Rendering Using Computer Vision**
 
 **Overview:**
