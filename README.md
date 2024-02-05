@@ -1,5 +1,6 @@
 # **Project Title: Non-Photorealistic Rendering Using Computer Vision**
 
+
 **Overview:**
 The "Non-Photorealistic Rendering Using Computer Vision" project explores innovative techniques in computer vision to create non-photorealistic renditions of images. Leveraging features extracted from a dataset of images, the project utilizes specialized computer vision models such as cv2.edgePreservingFilter(), cv2.DetailEnhance(), cv2.pencilSketch(), and cv2.stylization(). The aim is to transform images into artistic, non-photorealistic representations that mimic various traditional art styles.
 
