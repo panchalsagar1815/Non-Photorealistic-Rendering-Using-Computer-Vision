@@ -1,5 +1,4 @@
 # Non-Photorealistic-Rendering-Using-Computer-Vision
-
 **Project Title: Non-Photorealistic Rendering Using Computer Vision**
 
 **Overview:**
